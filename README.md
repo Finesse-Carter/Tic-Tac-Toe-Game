@@ -4,7 +4,7 @@
 
 **Link to project:** TBA
 
-![](Screenshot (79.png)
+![](gitit.png)
 
 ## How It's Made:
 
