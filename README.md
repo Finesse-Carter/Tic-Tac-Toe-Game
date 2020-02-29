@@ -4,20 +4,20 @@
 
 **Link to project:** TBA
 
-![](readme.PNG)
+![](Screenshot (79.png)
 
 ## How It's Made:
 
   **Languages used:**  HTML, CSS, JavaScript
 
-  - When a player clicks on on of the square, it triggers an event listener to check if there a winning combination and increase the score 
+  - When a player clicks on on of the square, it triggers an event listener to check if there a winning combination and increase the score
   if not continue the game. press the reset button to clear the board.
-  
+
 ## Optimizations
   - ADD a color over the winning commbination on the DOM.
   - BUG: Play Wins message pops up randomly after once in a while even though no one has won
   - IMPROVE syntax consistency
-  
+
 ## Examples:
 Take a look at these couple examples that I have in my own portfolio:
 
